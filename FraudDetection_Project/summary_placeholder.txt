@@ -1,8 +1,0 @@
-SUMMARY DOCUMENT
-================
-Generate summary.pdf or summary.docx after running analysis.ipynb.
-The notebook's Task 8 section contains all content needed for the summary document:
-- Model performance comparison
-- SHAP insights
-- Business recommendations
-- Estimated savings
